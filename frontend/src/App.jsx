@@ -1,13 +1,14 @@
 
 import './App.css'
-import GameBoard from './components/GameBoard'
+
+import ShiritoriGame from './components/ShiritoriGame '
 
 function App() {
 
 
   return (
     <>
-      <GameBoard/>
+      <ShiritoriGame/>
     </>
   )
 }
